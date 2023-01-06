@@ -16,6 +16,6 @@ public abstract class Burd extends Animal {
 	
 	public void noise() {
 		
-		System.out.println("It'sa-me, CONKDORS");
+		System.out.println("It'sa-me, CONKDORS!");
 	}
 }

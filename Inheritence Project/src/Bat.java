@@ -10,7 +10,7 @@ public class Bat extends Mammal{
 
 	public void noise() {
 		
-		System.out.println(name + " lets out an unearthly skreech, but Batman does not respond :(");
+		System.out.println(name + " lets out an unearthly skreech, but Batman does not respond.");
 	}
 
 }

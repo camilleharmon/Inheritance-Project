@@ -16,7 +16,7 @@ public abstract class Mammal extends Animal {
 	
 	public void noise() {
 		
-		System.out.println("It'sa-me, MARIO");
+		System.out.println("It'sa-me, MARIO!");
 	}
 
 }

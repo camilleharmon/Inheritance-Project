@@ -15,6 +15,6 @@ public class Penguin extends Burd{
 	
 	public void noise() {
 		
-		System.out.println(name + " shouts 'WHERE'S MY MONEY?'");
+		System.out.println(name + " shouts 'WHERE'S MY MONEY?!'");
 	}
 }

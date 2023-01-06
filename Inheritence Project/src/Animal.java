@@ -8,7 +8,7 @@ public abstract class Animal {
 	public static void makeLunch() {
 	
 		int num = (int)(Math.random() * 9) + 1;	
-		if(num == 1) {
+		if(num == 1) { 
 			
 			yummy = "a good pizza";
 		}else if(num == 2) {
@@ -16,7 +16,7 @@ public abstract class Animal {
 			yummy = "a shot of vodka";
 		}else if(num == 3) {
 			
-			yummy = "tacos";
+			yummy = "my tacos";
 		}else if(num == 4) {
 			
 			yummy = "bebe carrots";

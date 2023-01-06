@@ -13,7 +13,7 @@ public class Runner {
 	
 	public static void buildZoo() {
 		
-		zoo.add(new Penguin("Mr.Bubbles", "Fish n' Chips"));
+		zoo.add(new Penguin("Mr. Bubbles", "Fish n' Chips"));
 		zoo.add(new Bat("I've Gone Batty", "Bugaronni & Cheese"));
 	}
 	
