@@ -1,10 +1,5 @@
 
 public class Penguin extends Burd{
-
-//	public Penguin(String n, String f) {
-//		super(n, f);
-//		
-//	}
 	
 	protected Penguin(String n, String f) {
 		

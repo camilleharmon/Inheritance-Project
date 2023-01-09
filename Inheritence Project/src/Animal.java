@@ -41,11 +41,6 @@ public abstract class Animal {
 		}
 	}
 	
-//	public Animal(String n, String f) {
-//		
-//		n = name;
-//		f = food;
-//	}
 
 	public String getName() {
 		return name;
